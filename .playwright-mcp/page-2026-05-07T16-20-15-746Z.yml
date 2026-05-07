@@ -1,0 +1,105 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e52]:
+            - generic [ref=e55]: Create a simple pricing card component with three tiers (Basic, Pro, Enterprise). Each card should show the plan name, price, a list of features, and a CTA button.
+            - img [ref=e58]
+          - generic [ref=e74]:
+            - img [ref=e77]
+            - generic [ref=e82]:
+              - generic [ref=e85]: str_replace_editor
+              - separator [ref=e86]
+              - generic [ref=e89]: str_replace_editor
+              - separator [ref=e90]
+              - paragraph [ref=e92]: Done! Created a pricing card component with three tiers. The Pro plan is highlighted as "Most Popular" with a blue ring and elevated styling. Each card displays the plan name, price, description, features with checkmarks, and a CTA button.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [active] [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e688]:
+        - generic [ref=f4e4]:
+          - generic [ref=f4e5]:
+            - heading "Simple, Transparent Pricing" [level=1] [ref=f4e6]
+            - paragraph [ref=f4e7]: Choose the perfect plan for your needs
+          - generic [ref=f4e8]:
+            - generic [ref=f4e10]:
+              - heading "Basic" [level=3] [ref=f4e11]
+              - paragraph [ref=f4e12]: Perfect for getting started
+              - generic [ref=f4e13]: $29/month
+              - button "Get Started" [ref=f4e14] [cursor=pointer]
+              - generic [ref=f4e15]:
+                - paragraph [ref=f4e16]: "What's included:"
+                - generic [ref=f4e17]:
+                  - img [ref=f4e18]
+                  - generic [ref=f4e20]: Up to 10 projects
+                - generic [ref=f4e21]:
+                  - img [ref=f4e22]
+                  - generic [ref=f4e24]: 5GB storage
+                - generic [ref=f4e25]:
+                  - img [ref=f4e26]
+                  - generic [ref=f4e28]: Basic support
+                - generic [ref=f4e29]:
+                  - img [ref=f4e30]
+                  - generic [ref=f4e32]: Community access
+            - generic [ref=f4e33]:
+              - generic [ref=f4e34]: Most Popular
+              - generic [ref=f4e35]:
+                - heading "Pro" [level=3] [ref=f4e36]
+                - paragraph [ref=f4e37]: Best for growing teams
+                - generic [ref=f4e38]: $79/month
+                - button "Start Free Trial" [ref=f4e39] [cursor=pointer]
+                - generic [ref=f4e40]:
+                  - paragraph [ref=f4e41]: "What's included:"
+                  - generic [ref=f4e42]:
+                    - img [ref=f4e43]
+                    - generic [ref=f4e45]: Unlimited projects
+                  - generic [ref=f4e46]:
+                    - img [ref=f4e47]
+                    - generic [ref=f4e49]: 500GB storage
+                  - generic [ref=f4e50]:
+                    - img [ref=f4e51]
+                    - generic [ref=f4e53]: Priority support
+                  - generic [ref=f4e54]:
+                    - img [ref=f4e55]
+                    - generic [ref=f4e57]: Advanced analytics
+                  - generic [ref=f4e58]:
+                    - img [ref=f4e59]
+                    - generic [ref=f4e61]: Custom integrations
+            - generic [ref=f4e63]:
+              - heading "Enterprise" [level=3] [ref=f4e64]
+              - paragraph [ref=f4e65]: For large organizations
+              - generic [ref=f4e66]: Custompricing
+              - button "Contact Sales" [ref=f4e67] [cursor=pointer]
+              - generic [ref=f4e68]:
+                - paragraph [ref=f4e69]: "What's included:"
+                - generic [ref=f4e70]:
+                  - img [ref=f4e71]
+                  - generic [ref=f4e73]: Everything in Pro
+                - generic [ref=f4e74]:
+                  - img [ref=f4e75]
+                  - generic [ref=f4e77]: Unlimited storage
+                - generic [ref=f4e78]:
+                  - img [ref=f4e79]
+                  - generic [ref=f4e81]: 24/7 dedicated support
+                - generic [ref=f4e82]:
+                  - img [ref=f4e83]
+                  - generic [ref=f4e85]: Custom contracts
+                - generic [ref=f4e86]:
+                  - img [ref=f4e87]
+                  - generic [ref=f4e89]: SSO & advanced security
+  - alert [ref=e51]
+  - generic [ref=e382]:
+    - alert
+    - alert
